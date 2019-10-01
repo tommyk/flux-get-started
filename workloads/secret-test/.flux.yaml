@@ -1,4 +1,4 @@
 version: 1
 commandUpdated:
   generators:
-  - command: create.sh
+  - command: ./create.sh

@@ -6,5 +6,6 @@ metadata:
 type: Opaque
 data:
   config.yaml: $(cat fake.yaml | base64)
+  config2.yaml: $(cat fake.yaml | base64)
 EOF
 )"
